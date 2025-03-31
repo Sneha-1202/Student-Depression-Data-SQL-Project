@@ -19,15 +19,15 @@ To ensure data accuracy and consistency, several modifications were made:
 
   -Depression Column:
 
-   Changed its data type to better suit the analysis.
+  Changed its data type to better suit the analysis.
 
-   -Standardized depression levels (e.g., converting numeric    scores    like '0' and '1' to textual values like 'YES' and 'NO') 
+ -Standardized depression levels (e.g., converting numeric    scores    like '0' and '1' to textual values like 'YES' and 'NO') 
 
-   -Gender Column:
+ -Gender Column:
 
-  Standardized gender values (e.g., converting “Male”  and “Female” into sinle values like "M” and"F").
+ Standardized gender values (e.g., converting “Male”  and “Female” into sinle values like "M” and"F").
 
-  Ensured data consistency for better analysis.
+ Ensured data consistency for better analysis.
 
 2. Data Analysis Using SQL Queries
 
@@ -45,21 +45,21 @@ Once the data was structured, it was imported into Tableau to create visually ap
 
 ## Key Relationships Explored:
 
- Academic Pressure vs. Student Count
+-Academic Pressure vs. Student Count
 
-This visualization highlights how the number of students experiencing depression varies based on academic workload. It helps identify whether increased pressure leads to higher stress levels.
+ This visualization highlights how the number of students experiencing depression varies based on academic workload. It helps identify whether increased pressure leads to higher stress levels.
 
- Study Hours vs. Student Count
+-Study Hours vs. Student Count
 
-By analyzing the correlation between study hours and depression, this chart reveals if extended study sessions contribute to mental health struggles.
+ By analyzing the correlation between study hours and depression, this chart reveals if extended study sessions contribute to mental health struggles.
 
- Financial Stress vs. Student Count
+-Financial Stress vs. Student Count
 
-Financial difficulties can be a major stressor for students. This visualization shows how financial challenges impact student depression rates.
+ Financial difficulties can be a major stressor for students. This visualization shows how financial challenges impact student depression rates.
 
- Study Satisfaction vs. Student Count
+-Study Satisfaction vs. Student Count
 
-Understanding whether students who enjoy their studies experience less depression is crucial. This visualization helps assess the impact of academic satisfaction on mental well-being.
+ Understanding whether students who enjoy their studies experience less depression is crucial. This visualization helps assess the impact of academic satisfaction on mental well-being.
 
 
 
