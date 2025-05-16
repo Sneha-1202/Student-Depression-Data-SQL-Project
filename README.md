@@ -25,7 +25,7 @@ To ensure data accuracy and consistency, several modifications were made:
 
  -Gender Column:
 
- Standardized gender values (e.g., converting “Male”  and “Female” into sinle values like "M” and"F").
+ Standardized gender values (e.g., converting “Male”  and “Female” into simple values like "M” and"F").
 
  Ensured data consistency for better analysis.
 
